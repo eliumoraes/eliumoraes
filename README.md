@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliumoraes
 
-- 🌱 I’m currently learning .NET CORE
+- 🌱 I’m currently upgrading my skills on .NET CORE and VUEJS
 - 📫 How to reach me: sending a message on whats app: https://wa.me/5518996408163
 
 <!---
