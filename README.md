@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a backend developer
+👋 Hello! I'm a backend developer with a knack for building robust and scalable web applications. Leveraging a strong foundation in C#, JavaScript, and a suite of modern technologies including Azure, .Net, and Vue.js, I'm passionate about crafting seamless digital experiences. Beyond coding, I enjoy exploring the limitless possibilities of tech stacks and contributing to solutions that make a difference. Let's connect and innovate together!
 
 
 ## 🌐 Socials:
