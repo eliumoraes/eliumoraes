@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hello! I'm a backend developer with a knack for building robust and scalable web applications. Leveraging a strong foundation in C#, JavaScript, and a suite of modern technologies including Azure, .Net, and Vue.js, I'm passionate about crafting seamless digital experiences. Beyond coding, I enjoy exploring the limitless possibilities of tech stacks and contributing to solutions that make a difference. Let's connect and innovate together!
+👋 Hello! I'm Eliu Moraes, a Senior .NET Developer with experience in designing and developing scalable, high-performance applications. I specialize in .NET Core, C#, and Azure, and have a strong background in applying Clean Architecture, SOLID principles, and microservices to create maintainable and efficient solutions.
+
+💼 I've worked on projects ranging from building serverless APIs with Azure Functions to optimizing database performance and automating CI/CD pipelines using Azure DevOps. I'm passionate about leveraging cloud technologies to enhance operational efficiency and delivering technical solutions that align with business goals.
+
+🌟 Beyond coding, I enjoy collaborating with cross-functional teams and continuously exploring new technologies to stay ahead in the ever-evolving tech landscape. Let's connect and innovate together!
 
 
 ## 🌐 Socials:
